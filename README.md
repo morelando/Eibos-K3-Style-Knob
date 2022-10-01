@@ -21,6 +21,7 @@ Remove the existing pull cord latch and keep the spring, this will be used with 
 (FYI Both panels are identical)
 
 Refernce Images
+
 ![IMG_9595_2](https://user-images.githubusercontent.com/55563402/193378068-395a7ac1-a26b-4055-ba0b-5511f2596118.jpg)
 
 
@@ -38,5 +39,8 @@ Installing New K3 style Knob
 10. You should now have a nicely fitted knob installed on you Eibos door :).
 
 Reference images
-2.![IMG_9593](https://user-images.githubusercontent.com/55563402/193378098-055011d0-f15b-4bff-8f16-6ef2183d545d.JPG)
-3.![IMG_9592_2_Sketch](https://user-images.githubusercontent.com/55563402/193378144-6cc2b463-7d98-49a1-9375-59cab2d5ed2f.jpg)
+
+2.
+![IMG_9593](https://user-images.githubusercontent.com/55563402/193378098-055011d0-f15b-4bff-8f16-6ef2183d545d.JPG)
+3.
+![IMG_9592_2_Sketch](https://user-images.githubusercontent.com/55563402/193378144-6cc2b463-7d98-49a1-9375-59cab2d5ed2f.jpg)
