@@ -49,3 +49,10 @@ Reference images
 (Step 3.)
 
 ![IMG_9592_2_Sketch](https://user-images.githubusercontent.com/55563402/193378144-6cc2b463-7d98-49a1-9375-59cab2d5ed2f.jpg)
+
+(Step 10.)
+
+![IMG_9596](https://user-images.githubusercontent.com/55563402/193378385-9c7e7069-3b42-4845-a170-6824bc9a77c2.JPG)
+
+Enjoy!
+
