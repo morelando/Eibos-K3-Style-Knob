@@ -1,5 +1,6 @@
 # Eibos-K3-Style-Knob
 Eibos K3 Style Knob
+
 ![IMG_9585](https://user-images.githubusercontent.com/55563402/193378164-edf19ca7-95b1-43f4-a9a7-0a7ed55bcbcb.JPG)
 
 
@@ -13,7 +14,7 @@ Parts Required
 
 Seperating Eibos Door Panels
 
-Use a small Flat Head screwdriver at least 3.0mm wide, any smaller and you'll likley end up marring the panel plastic
+Use a small Flat Head screwdriver at least 3.0mm wide, any smaller and you'll likley end up marring the panel plastic.
 slighlty pry the panels apart at a corner such that you can insert the flat head inbetween the panel elements.
 Pry apart slowly until the panels clip detaches.
 Work you way around the edges of the panel, until the panels seperate.
@@ -40,7 +41,11 @@ Installing New K3 style Knob
 
 Reference images
 
-2.
+(Step 2.)
+
 ![IMG_9593](https://user-images.githubusercontent.com/55563402/193378098-055011d0-f15b-4bff-8f16-6ef2183d545d.JPG)
-3.
+
+
+(Step 3.)
+
 ![IMG_9592_2_Sketch](https://user-images.githubusercontent.com/55563402/193378144-6cc2b463-7d98-49a1-9375-59cab2d5ed2f.jpg)
